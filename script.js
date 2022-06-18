@@ -143,15 +143,16 @@
 
 // console.log(johnReport || alexReport || samReport || mariaReport);
 
-// const hamburger = 0;
-// const fries = null;
-// const cola = 0;
-// const nuggets = 2;
+const hamburger = 0;
+const fries = null;
+const cola = 0;
+const nuggets = 2;
 
-// if (hamburger === 3|| cola === 2 || nuggets || fries === 3) {
-//     console.log('Hamma rozi!');
-// } else {
-//     console.log('Biz kettik!');
-// }
+if (hamburger === 3|| cola === 2 || nuggets || fries === 3) {
+    console.log('Hamma rozi!');
+} else {
+    console.log('Biz kettik!');
+}
 
 // console.log(hamburger === 3|| cola === 2 || nuggets || fries === 3);
+
